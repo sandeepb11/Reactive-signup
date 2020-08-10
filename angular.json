@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Reactive-signup"
+    }
+  },
+  "defaultProject": "Reactive-signup",
+  "cli": {
+    "analytics": false
+  }
 }
